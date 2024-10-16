@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12",
+    "description": "The latest iPhone 12 model with a Super Retina XDR display, A14 Bionic chip, and 5G capability.",
+    "price": "699",
+    "imageURL": "/images/iphone-12-finish-unselect-gallery-1-202207_GEO_US.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "The latest Samsung Galaxy S21 model with a Dynamic AMOLED 2X display, 5G capability, and a 64 MP camera.",
+    "price": "799",
+    "imageURL": "/images/galaxy-s20_banner_goto_fan-edition.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "description": "The latest Sony PlayStation 5 model with an ultra-high-speed SSD, 3D audio, and ray tracing.",
+    "price": "499",
+    "imageURL": "/images/PS5-front-with-dualsense.webp"
+  },
+  {
+    "id": 4,
+    "name": "Google Nest Mini",
+    "description": "The latest Google Nest Mini model with Google Assistant built-in, improved sound quality, and hands-free voice control.",
+    "price": "49",
+    "imageURL": "/images/Google_Nest_Mini.png"
+  },
+  {
+    "id": 5,
+    "name": "MacBook Pro",
+    "description": "The latest MacBook Pro model with a 16-inch Retina display, Touch Bar, and the Apple M1 chip.",
+    "price": "1,299",
+    "imageURL": "/images/model-16.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tesla Model 3",
+    "description": "The latest Tesla Model 3 model with a range of up to 358 miles, 0-60 mph acceleration in 3.2 seconds, and autopilot advanced safety and convenience features.",
+    "price": "39,190",
+    "imageURL": "/images/Model-3-Performance-Hero-Desktop-LHD.jfif"
+  },
+  {
+    "id": 7,
+    "name": "DJI Mavic Air 2",
+    "description": "The latest DJI Mavic Air 2 model with 4K camera, 3-axis gimbal, 34 minutes flight time and 8km 1080p video transmission.",
+    "price": "799",
+    "imageURL": "/images/mavic-air-2.png"
+  }
+]

@@ -1,0 +1,61 @@
+.profile_image{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin:0 40%;
+}
+
+
+.profile_info{
+    width: 70%;
+    margin: 30px 0;
+    text-align: center;
+    text-align: justify;
+}
+
+.title{
+    font-weight: 700;
+    margin: 0;
+}
+
+.modifier_form{
+    width: 70%;
+    margin-left: 40%;
+}
+
+
+.upload .round{
+    position: relative;
+    bottom: 60px;
+    left: 648px;
+    color: white;
+    background: #1B71FA ;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.upload .round .file{
+    position: absolute;
+    transform: scale(2);
+    opacity: 0;
+    cursor: pointer;
+}
+
+.profile{
+    
+    gap: 80px;
+}
+
+@media screen and (max-width:800px){
+    .d_flex{
+        flex-direction: column !important;
+    }
+    .profile{
+        gap: 20px;
+    }
+    
+}
